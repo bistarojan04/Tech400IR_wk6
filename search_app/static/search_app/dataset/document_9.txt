@@ -1,0 +1,9 @@
+Document 9: Decision Trees in Predictive Analytics
+Decision trees are a widely used machine learning algorithm in predictive analytics, characterized by their intuitive structure resembling a tree. 
+These models work by recursively splitting the dataset into subsets based on the most significant features, ultimately leading to predictions at the leaves of the tree. 
+Decision trees are particularly popular due to their interpretability, allowing users to understand the decision-making process of the model. 
+They can be used for both classification and regression tasks, making them versatile tools for various applications. 
+In fields such as finance, decision trees can assess credit risk by analyzing customer data to predict defaults. 
+In healthcare, they can help classify patient diagnoses based on symptoms and medical history. 
+While decision trees are powerful, they can be prone to overfitting, especially when trained on complex datasets. 
+To mitigate this, techniques such as pruning and ensemble methods like Random Forests are often employed, enhancing the model's robustness and predictive power.

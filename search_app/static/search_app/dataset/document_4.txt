@@ -1,0 +1,8 @@
+Document 4: Natural Language Processing and Chatbots
+Natural Language Processing (NLP) is a vital component of artificial intelligence that focuses on the interaction between computers and human language. 
+By enabling machines to understand, interpret, and generate text, NLP is paving the way for significant advancements in human-computer interaction. 
+One of the most prominent applications of NLP is in the development of chatbots, which serve as virtual assistants capable of carrying on conversations with users. 
+These chatbots are designed to provide customer support, answer queries, and even facilitate transactions, all while learning from user interactions to improve their responses over time. 
+Advanced NLP models like BERT (Bidirectional Encoder Representations from Transformers) and GPT (Generative Pre-trained Transformer) have dramatically improved the capabilities of chatbots, allowing them to comprehend context and generate human-like responses. 
+The continuous improvement in NLP technologies is revolutionizing industries such as customer service, healthcare, and education, where conversational agents are used to enhance user engagement and streamline processes. 
+As NLP continues to advance, its potential applications in enhancing communication between humans and machines are virtually limitless.

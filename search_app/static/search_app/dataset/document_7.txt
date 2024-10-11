@@ -1,0 +1,8 @@
+Document 7: Supervised Learning for Fraud Detection
+Supervised learning is a prevalent machine learning technique where models are trained on labeled datasets. 
+In this context, labeled data consists of input features paired with their corresponding output labels, allowing the model to learn the relationship between them. 
+One of the most significant applications of supervised learning is in fraud detection, particularly in the financial sector. 
+Here, algorithms are trained on historical transaction data, with transactions marked as either fraudulent or legitimate. 
+The model learns to recognize patterns associated with fraudulent activities, enabling it to identify potentially suspicious transactions in real-time. 
+As financial institutions increasingly turn to automated systems to combat fraud, supervised learning models are becoming more sophisticated, employing techniques such as ensemble learning and anomaly detection to enhance their accuracy. 
+By continuously updating these models with new data, organizations can stay one step ahead of emerging fraud tactics and protect their customers more effectively.

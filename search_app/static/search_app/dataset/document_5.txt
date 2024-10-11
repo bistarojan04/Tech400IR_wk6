@@ -1,0 +1,8 @@
+Document 5: Reinforcement Learning in Robotics
+Reinforcement Learning (RL) is a distinctive machine learning paradigm that trains agents to make decisions through interactions with their environment. 
+In this approach, an agent learns to perform tasks by receiving feedback in the form of rewards or penalties based on its actions. 
+RL has proven particularly effective in robotics, where robots are taught to navigate complex environments, perform manipulation tasks, or even engage in competitive scenarios. 
+For instance, in robotics, RL algorithms enable robots to learn to pick and place objects efficiently, gradually improving their performance through trial and error. 
+This technology is also instrumental in developing autonomous systems, such as drones and self-driving cars, which learn to make real-time decisions based on environmental stimuli. 
+Companies like OpenAI and DeepMind have made significant advancements in RL, showcasing its potential in diverse applications ranging from gaming to industrial automation. 
+As RL techniques continue to mature, they are expected to play a pivotal role in the future of robotics and autonomous systems.

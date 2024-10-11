@@ -1,0 +1,8 @@
+Document 12: AI in Agriculture
+Artificial Intelligence (AI) is transforming the agricultural sector by improving crop management, pest control, and yield predictions. 
+Farmers are increasingly adopting AI technologies to analyze soil conditions, weather patterns, and crop health through advanced sensors and drones. 
+These tools provide real-time data that help farmers make informed decisions about irrigation, fertilization, and pest control. 
+Machine learning algorithms can predict optimal harvest times by analyzing historical data and current conditions, maximizing crop yield. 
+Additionally, AI-driven systems can identify pests and diseases early, enabling targeted interventions that minimize chemical usage and reduce costs. 
+As agriculture faces challenges such as climate change and population growth, AI offers innovative solutions that promote sustainable farming practices and enhance food security. 
+The integration of AI in agriculture is not just about increasing productivity; it’s about creating smarter, more efficient farming systems that can adapt to changing environmental conditions.

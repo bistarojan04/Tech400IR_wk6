@@ -1,0 +1,7 @@
+Document 28: AI in Journalism
+Artificial Intelligence (AI) is transforming journalism by automating content creation, enhancing data analysis, and improving audience engagement. 
+AI algorithms can generate news articles based on data and events, providing real-time reporting on topics such as sports and finance. 
+Additionally, AI-powered tools analyze audience preferences, helping journalists tailor their content to meet reader interests. 
+This data-driven approach fosters greater engagement and informs editorial decisions. 
+Moreover, AI technologies assist in fact-checking, verifying information to combat misinformation in journalism. 
+As the media landscape evolves, AI will continue to play a significant role in shaping the future of journalism, driving innovation and improving the quality of reporting.

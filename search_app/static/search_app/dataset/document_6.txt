@@ -1,0 +1,8 @@
+Document 6: Computer Vision in Autonomous Vehicles
+Computer vision is a critical technology in the development of autonomous vehicles, enabling them to perceive and interpret their surroundings. 
+Through the use of sensors, cameras, and advanced algorithms, autonomous vehicles can gather visual data and make informed decisions based on this information. 
+For instance, computer vision systems identify road signs, detect obstacles, and recognize pedestrians, allowing vehicles to navigate safely in real time. 
+Convolutional Neural Networks (CNNs) are often employed in these applications, processing visual data to extract relevant features and make predictions. 
+The ability to analyze images and videos in real time is crucial for ensuring the safety and efficiency of autonomous driving systems. 
+As technology progresses, the integration of computer vision with other sensors, such as LIDAR and radar, will enhance the capabilities of self-driving cars, making them more reliable and effective on the road. 
+This technological evolution is poised to transform the automotive industry, leading to safer and more efficient transportation solutions.

@@ -1,0 +1,8 @@
+Document 17: AI in Human Resources
+Artificial Intelligence (AI) is revolutionizing the field of Human Resources (HR) by streamlining recruitment processes and enhancing employee management. 
+AI-driven tools can analyze resumes, identify qualified candidates, and even conduct initial screening interviews through chatbots. 
+This automation significantly reduces the time and effort required to fill positions, allowing HR professionals to focus on strategic initiatives. 
+Furthermore, AI can assess employee performance data, providing insights that help in talent development and retention strategies. 
+Predictive analytics enable organizations to identify potential turnover risks, allowing them to implement proactive measures to retain top talent. 
+As AI technology continues to evolve, its applications in HR will expand, fostering more efficient and effective workforce management strategies. 
+The integration of AI in HR represents a significant shift towards data-driven decision-making and enhanced employee experiences.

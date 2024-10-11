@@ -1,0 +1,33 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BM25 Search</title>
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+    <link rel="stylesheet" href="{% static 'search_app/styles.css' %}">  <!-- Link to CSS -->
+</head>
+<body>
+    <div class="container">
+        <h1>Search with BM25</h1>
+
+        <form method="GET" action="">
+            <input type="text" name="query" placeholder="Enter your query..." value="{{ query }}" required>
+            <button type="submit">Search</button>
+        </form>
+
+        {% if query %}
+            <h2>Results for "{{ query }}"</h2>
+            <ul>
+                {% for result in results %}
+                    <li>
+                        <h3>Document {{ result.document_id }}</h3>
+                        <p>{{ result.document|truncatewords:50 }}</p>
+                    </li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+    </div>
+</body>
+</html>

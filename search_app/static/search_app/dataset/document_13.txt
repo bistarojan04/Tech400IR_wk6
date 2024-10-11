@@ -1,0 +1,8 @@
+Document 13: AI in Transportation
+Artificial Intelligence (AI) is significantly transforming the transportation sector, enhancing safety, efficiency, and logistics. 
+AI technologies are utilized in various applications, including traffic management systems, autonomous vehicles, and route optimization. 
+Smart traffic signals powered by AI analyze real-time traffic data to adjust signal timings, reducing congestion and improving travel times for commuters. 
+In logistics, AI algorithms optimize delivery routes, considering factors like traffic, weather, and vehicle capacity, leading to cost savings and faster service. 
+Moreover, autonomous vehicles leverage AI for navigation, object detection, and decision-making, paving the way for safer roads. 
+The future of transportation is set to be shaped by AI, promising innovative solutions that enhance mobility and reduce environmental impact. 
+As the technology evolves, it will continue to create new opportunities for improved transportation systems globally.

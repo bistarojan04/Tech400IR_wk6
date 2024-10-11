@@ -1,0 +1,8 @@
+Document 3: AI in Healthcare
+Artificial Intelligence (AI) is making significant strides in healthcare, with applications that enhance diagnostics, streamline patient care, and improve operational efficiencies. 
+AI systems can analyze vast amounts of medical data quickly, identifying patterns and trends that may not be apparent to human practitioners. 
+For example, AI algorithms are used in diagnostic imaging to detect diseases such as cancer, analyzing X-rays, MRIs, and CT scans for anomalies. 
+Additionally, AI-driven predictive analytics help forecast patient outcomes, allowing healthcare providers to tailor treatment plans based on individual risk factors. 
+Furthermore, virtual health assistants powered by AI can engage with patients, providing reminders for medication, scheduling appointments, and offering basic health advice. 
+The integration of AI in drug discovery is another transformative application, significantly reducing the time and cost associated with bringing new treatments to market. 
+As AI technology continues to evolve, its role in healthcare is expected to expand, ultimately enhancing the quality and accessibility of medical services for patients worldwide.

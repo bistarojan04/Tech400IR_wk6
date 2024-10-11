@@ -1,0 +1,8 @@
+Document 8: Unsupervised Learning for Customer Segmentation
+Unsupervised learning is a machine learning approach where models are trained on data without predefined labels. 
+This technique is particularly useful for identifying patterns and structures within datasets, making it valuable for applications such as customer segmentation. 
+In this context, businesses utilize unsupervised learning algorithms to group customers based on their purchasing behaviors, preferences, or demographic information. 
+By analyzing transaction histories, unsupervised models can identify distinct segments within a customer base, enabling targeted marketing strategies. 
+For instance, clustering algorithms like K-means or hierarchical clustering can categorize customers into groups such as frequent buyers, occasional shoppers, or those who abandon carts. 
+This segmentation allows companies to tailor their marketing efforts, improve customer satisfaction, and ultimately increase sales. 
+As businesses continue to gather vast amounts of data, unsupervised learning will play a crucial role in helping them extract valuable insights and make data-driven decisions.
